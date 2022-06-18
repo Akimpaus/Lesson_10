@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>BottomBar.qml</file>
+        <file>MainButton.qml</file>
+        <file>TaskList.qml</file>
+        <file>MainPopup.qml</file>
+        <file>EditName.qml</file>
+        <file>EditDescription.qml</file>
+        <file>AddPopup.qml</file>
+        <file>ReviewPopup.qml</file>
+    </qresource>
+</RCC>
